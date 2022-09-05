@@ -1,12 +1,12 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola!",
+      "description": "👋 ¡Soy Cristian Medina! Soy un ingeniero de software apasionado por crear aplicaciones web limpias con una funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas y hacer cosas que tengan un impacto real en la vida de las personas. Principalmente uso React.js, JavaScript, Node.js, Express y MongoDB cuando desarrollo mis aplicaciones y siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos. ",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mi",
+        "projects": "Proyecto",
+        "skills": "habilidades",
+        "experience": "experiencia"
       }
     },
     "projects": [
